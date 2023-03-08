@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+
+}
+
+.fruitList {
+    list-style: none;
+    text-align: left;
+    font-size: 20px;
+}
+
+.buttonAdd {
+    margin: 15px;
+    padding: 15px;
+    background-color: darkkhaki;
+    font-size: 20px;
+}
+
+input {
+    font-size: 15px;
+    padding: 10px;
+}

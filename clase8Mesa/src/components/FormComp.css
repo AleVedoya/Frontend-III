@@ -1,0 +1,45 @@
+/* Estructura Principal */
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+/* Campo de Texto */
+
+.data-input {
+  width: 350px;
+  font-size: 18px;
+  background-color: white;
+  color: #3d0bb3;
+  padding: 14px 32px 14px 16px;
+  margin: 10px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+/* Boton */
+
+.btn {
+  padding: 16px;
+  margin: 15px;
+  font-size: 18px;
+  font-family: Roboto, sans-serif;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  background: #b41577;
+  color: #fff;
+  text-transform: capitalize;
+}
+
+.data-list {
+  text-align: left;
+}

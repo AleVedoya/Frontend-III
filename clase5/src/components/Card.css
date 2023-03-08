@@ -1,0 +1,24 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+  background-color: rgb(183, 209, 209);
+  width: 400px;
+  border-radius: 15px;
+}
+
+.card-nombre {
+  text-align: center;
+  color: rgb(63, 61, 61);
+}
+
+.card-precio {
+    color: rgb(63, 61, 61);
+
+}
+
+.card-img {
+  width: 300px;
+}
